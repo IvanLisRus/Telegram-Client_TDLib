@@ -1,0 +1,8 @@
+Telegram Database Library
+https://core.telegram.org/tdlib
+
+Documentation
+https://pub.dev/documentation/tdlib/latest/tdlib/tdlib-library.html
+
+TDLib build instruction
+https://tdlib.github.io/td/build.html
