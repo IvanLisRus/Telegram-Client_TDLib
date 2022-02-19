@@ -9,8 +9,9 @@ For start the client, you need to fill in the config file (config.ini):
 
 Video: https://youtu.be/CW82ESEGEPc
 
-Implemented parsing of only text messages of the JSON type: <i>message.content.@type = messageText</i>
+<p>Implemented parsing of only text messages of the JSON type: <i>message.content.@type = messageText</i>
 <p>Sending only text messages.
+<p>There may be problems with the conversion of UNICODE characters, which can lead to an error parsing the string.
 
 <p>Contains library version: TDLib 1.8.1 (JSON interface) binary
 <p>Windows - 32bit | Windows - 64bit | Unix - 64bit
