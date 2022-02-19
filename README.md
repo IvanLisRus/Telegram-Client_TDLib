@@ -14,6 +14,7 @@ Implemented parsing of only text messages of the JSON type: <i>message.content.@
 Sending only text messages.
 
 Contains library version: TDLib 1.8.1 (JSON interface) binary
+
 Windows - 32bit | Windows - 64bit | Unix - 64bit
 
 For Linux need install <b>zlib1g-dev</b> & <b>libssl-dev</b>
