@@ -16,3 +16,5 @@ Video: https://youtu.be/CW82ESEGEPc
 <p>Contains library version: TDLib 1.8.1 (JSON interface) binary
 <p>Windows - 32bit | Windows - 64bit | Unix - 64bit
 <p>For Linux need install <b>zlib1g-dev</b> & <b>libssl-dev</b>
+
+<p>In Unix, if not work, then you need to transfer library file (<i>libtdjson.so</i>) to the <i>/usr/local/lib/<i> folder and correct the paths in the <i>.../Project_lv2015/Telegram Library/Telegram Class/Methods/Initialize Path.vi</i> file to <i>/usr/local/lib/libtdjson.so</i>
